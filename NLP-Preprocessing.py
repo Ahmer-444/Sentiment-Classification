@@ -1,5 +1,5 @@
 '''
-Description:    This file can be used for text pre-processing in NLP 
+Description:    Standalone file can be used for text pre-processing in NLP. 
 '''
 
 
